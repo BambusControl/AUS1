@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="tests::TestPriorityQueueTwoListsSqrt">
+    <Position X="0.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue_two_lists_sqrt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestPriorityQueueTwoListsHalf">
+    <Position X="0.5" Y="3.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue_two_lists_half.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestPriorityQueueTwoListsConst">
+    <Position X="5.25" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue_two_lists_const.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestPriorityQueue">
+    <Position X="5.75" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAEAIBAAAAAAUAAAEAEAAAAIAAAAAgAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

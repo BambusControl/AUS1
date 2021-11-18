@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="tests::TestPriorityQueue">
+    <Position X="3.5" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAEAIBAAAAAAUAAAEAEAAAAIAAAAAgAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestPriorityQueueHeap">
+    <Position X="5.5" Y="3.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue_heap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestPriorityQueueSortedArrayList">
+    <Position X="0.5" Y="3.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\priority_queue\test_priority_queue_sorted_array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

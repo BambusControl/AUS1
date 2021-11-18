@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\tests">
+      <UniqueIdentifier>{0728195c-4a30-4749-a879-4fd67a741407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures">
+      <UniqueIdentifier>{948ad203-6826-41e2-b774-b978ba506483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tests\common">
+      <UniqueIdentifier>{45a57eb8-95eb-4a7f-b1a0-a7c162612f5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tests\list">
+      <UniqueIdentifier>{245db8d9-64ee-4c22-a340-7785726a63dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tests\priority_queue">
+      <UniqueIdentifier>{e841c4a2-b448-4931-a795-cf70979f884b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tests\matrix">
+      <UniqueIdentifier>{8a1df189-b514-4103-987f-979388d6743f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\array">
+      <UniqueIdentifier>{9d14f3ce-2507-4126-9019-bd6c59367194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\list">
+      <UniqueIdentifier>{3480b979-b3a3-48f1-aad5-e4ae3e9b51d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\matrix">
+      <UniqueIdentifier>{b953cd7c-3a1c-474d-8132-20409f2b1dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\priority_queue">
+      <UniqueIdentifier>{b5fdb186-aebd-45ac-837e-aafc187b6b44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\stack">
+      <UniqueIdentifier>{120757ad-017b-4241-8bed-8800b74b1d18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\vector">
+      <UniqueIdentifier>{a4892cad-a0e7-4b87-ac85-c4a1eb5a5ec5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Diagrams">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\structures\priority_queue\queue">
+      <UniqueIdentifier>{f44dc977-e2c4-48e7-be01-7737bcc962e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\common">
+      <UniqueIdentifier>{ea95af64-45ec-4eae-8709-8d11ee68e243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\structures\priority_queue\TwoList">
+      <UniqueIdentifier>{9469b952-70cc-4139-a382-8174cdf3e9f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tests\test.h">
+      <Filter>Source Files\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\testFactory.h">
+      <Filter>Source Files\tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\common\progress_bar.h">
+      <Filter>Source Files\tests\common</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\list\test_array_list.h">
+      <Filter>Source Files\tests\list</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\list\test_linked_list.h">
+      <Filter>Source Files\tests\list</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\matrix\test_coherent_matrix.h">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\matrix\test_incoherent_matrix.h">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\list\test_list.h">
+      <Filter>Source Files\tests\list</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\matrix\test_matrix.h">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue_heap.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue_sorted_array_list.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\common\timer.h">
+      <Filter>Source Files\tests\common</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\ds_routines.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\ds_structure_types.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure_iterator.h">
+      <Filter>Source Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\array\array.h">
+      <Filter>Source Files\structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\array_list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\linked_list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\matrix\coherent_matrix.h">
+      <Filter>Source Files\structures\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\matrix\incoherent_matrix.h">
+      <Filter>Source Files\structures\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\matrix\matrix.h">
+      <Filter>Source Files\structures\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue.h">
+      <Filter>Source Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_linked_list.h">
+      <Filter>Source Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_list.h">
+      <Filter>Source Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_sorted_array_list.h">
+      <Filter>Source Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\heap.h">
+      <Filter>Source Files\structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\vector\vector.h">
+      <Filter>Source Files\structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\bilinked_circular_list.h">
+      <Filter>Source Files\structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\list\test_bilinked_list.h">
+      <Filter>Source Files\tests\list</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\common\enums.h">
+      <Filter>Source Files\tests\common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\heap_monitor.h">
+      <Filter>Source Files\common</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_two_lists.h">
+      <Filter>Source Files\structures\priority_queue\TwoList</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_limited_sorted_array_list.h">
+      <Filter>Source Files\structures\priority_queue\TwoList</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_two_lists_const.h">
+      <Filter>Source Files\structures\priority_queue\TwoList</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_two_lists_var_half.h">
+      <Filter>Source Files\structures\priority_queue\TwoList</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_two_lists_var_sqrt.h">
+      <Filter>Source Files\structures\priority_queue\TwoList</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue_two_lists_const.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue_two_lists_sqrt.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="tests\priority_queue\test_priority_queue_two_lists_half.h">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tests\common\progress_bar.cpp">
+      <Filter>Source Files\tests\common</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\list\test_array_list.cpp">
+      <Filter>Source Files\tests\list</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\list\test_linked_list.cpp">
+      <Filter>Source Files\tests\list</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\matrix\test_coherent_matrix.cpp">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\matrix\test_incoherent_matrix.cpp">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\list\test_list.cpp">
+      <Filter>Source Files\tests\list</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\matrix\test_matrix.cpp">
+      <Filter>Source Files\tests\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue_heap.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue_sorted_array_list.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\common\timer.cpp">
+      <Filter>Source Files\tests\common</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\ds_routines.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\structure.cpp">
+      <Filter>Source Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\vector\vector.cpp">
+      <Filter>Source Files\structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\list\test_bilinked_list.cpp">
+      <Filter>Source Files\tests\list</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue_two_lists_const.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue_two_lists_sqrt.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\priority_queue\test_priority_queue_two_lists_half.cpp">
+      <Filter>Source Files\tests\priority_queue</Filter>
+    </ClCompile>
+    <ClCompile Include="tests\testFactory.cpp">
+      <Filter>Source Files\tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="diagrams\Common.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\Enums.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\Test.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\TestList.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\TestMatrix.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\TestQueue.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\TestTwoLists.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="diagrams\Application.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="structures\aus.natvis">
+      <Filter>Source Files\structures</Filter>
+    </Natvis>
+  </ItemGroup>
+</Project>

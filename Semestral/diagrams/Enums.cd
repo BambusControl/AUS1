@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Enum Name="tests::TestStructure">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACAAERAQAIAAAAAACAIAAAGAAAAA=</HashCode>
+      <FileName>tests\common\enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tests::Scenario">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAoAEAAAA=</HashCode>
+      <FileName>tests\common\enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tests::TestStructureType">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>tests\common\enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

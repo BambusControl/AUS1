@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="tests::TestArrayList">
+    <Position X="4.5" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\list\test_array_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestLinkedList">
+    <Position X="4.5" Y="3.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>tests\list\test_linked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestList">
+    <Position X="0.75" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FAAAAASAABEAABAACAAIAAAAgAAAwAAIAUCAAgDAAAA=</HashCode>
+      <FileName>tests\list\test_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tests::TestBilinkedList">
+    <Position X="0.5" Y="3.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\list\test_bilinked_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
